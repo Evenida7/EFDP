@@ -1,0 +1,1 @@
+Estos archivos son de tipo .py, lo cuál son de Python
